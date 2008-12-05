@@ -1,0 +1,8 @@
+This is Zend scheme in railscasts style for php/html/js and others
+
+Installation for WindowsXP
+	- Copy scheme file into "C:\Documents and Settings\[Your user name]\ZDE\config_[Zend version]\schemes".
+	- In Zend options ("Tools->preferences->Colors&Fonts") choose scheme file.
+	- Enjoy!
+	
+	

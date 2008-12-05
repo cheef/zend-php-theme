@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<styleScheme>
+	<schemeName value="railscasts-like"/>
+	<styleManager>
+		<groupedStyleAttributes>
+			<groupName value="jscriptReservedWordColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="203" g="120" b="50"/>
+				<fontStyle value="1"/>
+				<token value="382"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpDocColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="186" g="181" b="252"/>
+				<fontStyle value="0"/>
+				<token value="374"/>
+				<underline value="true"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpTextColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="0"/>
+				<token value="342"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpHeredocColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="209" g="222" b="191"/>
+				<fontStyle value="0"/>
+				<token value="340"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpVariableColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="108" g="156" b="189"/>
+				<fontStyle value="0"/>
+				<token value="339"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpTagColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="1"/>
+				<token value="338"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpConstantEncapsedStringColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="164" g="194" b="96"/>
+				<fontStyle value="0"/>
+				<token value="336"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpNumberColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="164" g="194" b="96"/>
+				<fontStyle value="1"/>
+				<token value="334"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpCommentColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="188" g="147" b="88"/>
+				<fontStyle value="2"/>
+				<token value="333"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="phpReservedWordColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="203" g="120" b="50"/>
+				<fontStyle value="0"/>
+				<token value="328"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="unknownTokenColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="187" g="0" b="0"/>
+				<fontStyle value="0"/>
+				<token value="478"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="reservedWordColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="128"/>
+				<fontStyle value="0"/>
+				<token value="477"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="tagDataColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="0"/>
+				<token value="476"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="xmlCommentColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="58" g="139" b="218"/>
+				<fontStyle value="0"/>
+				<token value="475"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="valueColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="240" g="128" b="71"/>
+				<fontStyle value="0"/>
+				<token value="474"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="attributeColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="123" g="194" b="47"/>
+				<fontStyle value="0"/>
+				<token value="473"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="tagNameColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="141" g="176" b="211"/>
+				<fontStyle value="0"/>
+				<token value="472"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="tagColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="0" b="255"/>
+				<fontStyle value="0"/>
+				<token value="471"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="sqlConstantEncapsedStringColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="164" g="194" b="96"/>
+				<fontStyle value="2"/>
+				<token value="467"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="sqlTextColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="254" b="255"/>
+				<fontStyle value="0"/>
+				<token value="466"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="sqlNumberColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="164" g="194" b="96"/>
+				<fontStyle value="1"/>
+				<token value="465"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="sqlCommentColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="188" g="147" b="88"/>
+				<fontStyle value="2"/>
+				<token value="464"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="sqlReservedWordColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="203" g="120" b="50"/>
+				<fontStyle value="0"/>
+				<token value="460"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="unknownlanguageColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="0"/>
+				<token value="459"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="cssConstantEncapsedStringColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="164" g="194" b="96"/>
+				<fontStyle value="0"/>
+				<token value="455"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="cssReservedWordColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="1"/>
+				<token value="454"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="cssCommentColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="188" g="147" b="88"/>
+				<fontStyle value="2"/>
+				<token value="453"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="cssText"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="204" b="102"/>
+				<fontStyle value="0"/>
+				<token value="452"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="cssValue"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="141" g="176" b="211"/>
+				<fontStyle value="1"/>
+				<token value="451"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="cssProperty"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="0"/>
+				<token value="450"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="cssSelector"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="203" g="120" b="50"/>
+				<fontStyle value="0"/>
+				<token value="449"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="cssTag"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="231" g="190" b="105"/>
+				<fontStyle value="0"/>
+				<token value="447"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="htmlSpecialCharColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="1"/>
+				<token value="445"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="htmlCommentColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="188" g="147" b="88"/>
+				<fontStyle value="0"/>
+				<token value="444"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="htmlAttributeValueColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="164" g="194" b="96"/>
+				<fontStyle value="1"/>
+				<token value="443"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="htmlTextColor"/>
+			<styleAttributes>
+				<BGColor r="50" g="50" b="50"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="0"/>
+				<token value="441"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="htmlTagDefaultColor"/>
+			<styleAttributes>
+				<BGColor r="50" g="50" b="50"/>
+				<FGColor r="231" g="190" b="105"/>
+				<fontStyle value="0"/>
+				<token value="440"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="htmlHeadingColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="232" g="190" b="105"/>
+				<fontStyle value="0"/>
+				<token value="439"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="htmlTableColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="232" g="190" b="105"/>
+				<fontStyle value="0"/>
+				<token value="438"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="jscriptTextColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="255" g="255" b="255"/>
+				<fontStyle value="0"/>
+				<token value="436"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="jscriptNumberColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="164" g="194" b="46"/>
+				<fontStyle value="1"/>
+				<token value="433"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="jscriptConstantEncapsedStringColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="164" g="194" b="46"/>
+				<fontStyle value="0"/>
+				<token value="431"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="jscriptCommentColor"/>
+			<styleAttributes>
+				<BGColor r="-1"/>
+				<FGColor r="188" g="147" b="88"/>
+				<fontStyle value="0"/>
+				<token value="430"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+		<groupedStyleAttributes>
+			<groupName value="jscriptTagColor"/>
+			<styleAttributes>
+				<BGColor r="1" g="1" b="1"/>
+				<FGColor r="232" g="190" b="105"/>
+				<fontStyle value="0"/>
+				<token value="429"/>
+				<underline value="false"/>
+				<background value="false"/>
+			</styleAttributes>
+		</groupedStyleAttributes>
+	</styleManager>
+	<customized_property ID="editing.background">
+		<color r="17" g="36" b="53"/>
+	</customized_property>
+	<customized_property ID="editing.bracketQuoteMatching">
+		<color r="98" g="34" b="69"/>
+	</customized_property>
+	<customized_property ID="editing.bracketMatchingErrorColor">
+		<color r="165" g="0" b="69"/>
+	</customized_property>
+	<customized_property ID="highlighting.breakpointColor">
+		<color r="0" g="102" b="102"/>
+	</customized_property>
+	<customized_property ID="editing.currentLineColor">
+		<color r="39" g="58" b="75"/>
+	</customized_property>
+	<customized_property ID="highlighting.debugStepColor">
+		<color r="0" g="153" b="153"/>
+	</customized_property>
+	<customized_property ID="editing.font">
+		<font name="Monospaced" style="0" size="12"/>
+	</customized_property>
+	<customized_property ID="editing.searchInSelectedHighlightingColor">
+		<color r="0" g="0" b="255"/>
+	</customized_property>
+	<customized_property ID="cvsDiff.diffAppend">
+		<color r="33" g="104" b="135"/>
+	</customized_property>
+	<customized_property ID="cvsDiff.diffChange">
+		<color r="45" g="110" b="66"/>
+	</customized_property>
+	<customized_property ID="cvsDiff.diffDelete">
+		<color r="145" g="49" b="95"/>
+	</customized_property>
+</styleScheme>
