@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor foreColor="ffd0cffe" name="PHP_VARIABLE"/>
+    <fontcolor foreColor="ffffc56d" name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-private"/>
+    <fontcolor default="identifier" name="PHP_STRING"/>
+    <fontcolor bgColor="magenta" name="mod-protected"/>
+    <fontcolor name="mod-deprecated" strikeThrough="darkGray"/>
+    <fontcolor bgColor="ffeceba3" name="mark-occurrences"/>
+    <fontcolor name="mod-abstract"/>
+    <fontcolor default="field" name="mod-field"/>
+    <fontcolor foreColor="ff6c3d03" name="heredocdelimiter"/>
+    <fontcolor foreColor="white" name="phpopenclose">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="magenta" name="PHP_CONTENT"/>
+    <fontcolor name="mod-public"/>
+    <fontcolor name="mod-constructor">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-local-variable"/>
+    <fontcolor default="constant" foreColor="ff2f7681" name="constant">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor foreColor="ffa06001" name="mod-parameter"/>
+    <fontcolor default="keyword" foreColor="ffcb7832" name="keyword"/>
+    <fontcolor name="mod-static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="operator" name="operator"/>
+    <fontcolor name="mod-class">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="magenta" name="T_INLINE_HTML"/>
+    <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
+    <fontcolor default="string" foreColor="ffa4c260" name="string"/>
+    <fontcolor default="comment" name="phpdockeyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" foreColor="ffbc9358" name="comment"/>
+    <fontcolor default="identifier" foreColor="ffffc56d" name="identifier"/>
+    <fontcolor default="separator" name="separator"/>
+</fontscolors>

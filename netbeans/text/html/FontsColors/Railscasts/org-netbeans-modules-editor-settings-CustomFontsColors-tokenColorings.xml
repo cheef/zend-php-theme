@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="default" foreColor="ff937549" name="sgml-declaration"/>
+    <fontcolor name="mod-enum"/>
+    <fontcolor name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" name="css-embedded"/>
+    <fontcolor name="mod-annotation-type"/>
+    <fontcolor name="mod-interface"/>
+    <fontcolor default="default" foreColor="ffe7be69" name="tag"/>
+    <fontcolor default="comment" foreColor="gray" name="sgml-comment"/>
+    <fontcolor name="mod-private"/>
+    <fontcolor name="mod-protected"/>
+    <fontcolor name="mod-deprecated" strikeThrough="darkGray"/>
+    <fontcolor default="char" foreColor="ffffcc66" name="character"/>
+    <fontcolor bgColor="ffeceba3" name="mark-occurrences"/>
+    <fontcolor name="mod-abstract"/>
+    <fontcolor default="default" name="javascript-embedded"/>
+    <fontcolor default="default" foreColor="ffa4c260" name="value"/>
+    <fontcolor default="field" name="mod-field"/>
+    <fontcolor name="mod-public"/>
+    <fontcolor default="identifier" foreColor="ffe7be69" name="argument"/>
+    <fontcolor name="mod-constructor">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="default" name="text"/>
+    <fontcolor name="mod-local-variable"/>
+    <fontcolor name="mod-package-private"/>
+    <fontcolor bgColor="red" default="error" foreColor="white" name="error"/>
+    <fontcolor foreColor="ffa06001" name="mod-parameter"/>
+    <fontcolor default="comment" name="left-curly"/>
+    <fontcolor default="comment" name="right-curly"/>
+    <fontcolor name="mod-static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor foreColor="ff9933cc" name="mod-regexp"/>
+    <fontcolor default="whitespace" name="ws"/>
+    <fontcolor default="operator" foreColor="white" name="operator"/>
+    <fontcolor name="mod-class"/>
+    <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
+    <fontcolor default="comment" name="html-tag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" name="js-comment-tag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="comment" foreColor="ff937549" name="block-comment"/>
+</fontscolors>
